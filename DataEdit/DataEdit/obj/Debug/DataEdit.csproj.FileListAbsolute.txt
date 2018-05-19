@@ -1,0 +1,13 @@
+D:\progs_my\test\DataEdit\DataEdit\bin\Debug\myData.mdf
+D:\progs_my\test\DataEdit\DataEdit\bin\Debug\myData_log.ldf
+D:\progs_my\test\DataEdit\DataEdit\bin\Debug\DataEdit.exe.config
+D:\progs_my\test\DataEdit\DataEdit\bin\Debug\DataEdit.exe
+D:\progs_my\test\DataEdit\DataEdit\bin\Debug\DataEdit.pdb
+D:\progs_my\test\DataEdit\DataEdit\obj\Debug\DataEdit.csprojResolveAssemblyReference.cache
+D:\progs_my\test\DataEdit\DataEdit\obj\Debug\DataEdit.Form1.resources
+D:\progs_my\test\DataEdit\DataEdit\obj\Debug\DataEdit.Properties.Resources.resources
+D:\progs_my\test\DataEdit\DataEdit\obj\Debug\DataEdit.csproj.GenerateResource.Cache
+D:\progs_my\test\DataEdit\DataEdit\obj\Debug\DataEdit.csproj.CoreCompileInputs.cache
+D:\progs_my\test\DataEdit\DataEdit\obj\Debug\DataEdit.exe
+D:\progs_my\test\DataEdit\DataEdit\obj\Debug\DataEdit.pdb
+D:\progs_my\test\DataEdit\DataEdit\obj\Debug\DataEdit.my_edit.resources
